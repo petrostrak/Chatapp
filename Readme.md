@@ -1,7 +1,3 @@
-## Spring Boot WebSocket Chat Appplication
-
-You can checkout the live version of the application at https://spring-ws-chat.herokuapp.com/
-
 ## Requirements
 
 1. Java - 1.8.x
